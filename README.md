@@ -11,7 +11,7 @@ Dimensionality reduction is an essential step in data analysis and machine learn
 This project delves into Advanced Dimensionality Reduction (ADR) techniques, applying them to diverse datasets (image, tabular, and medical) using Python in Google Colab and Databricks. The accompanying notebooks and walkthroughs aim to showcase the utility, effectiveness, and trade-offs of each method in real-world scenarios.
 
    Overview of Dimensionality Reduction Techniques
-1. Locally Linear Embedding (LLE)
+1. Locally Linear Embedding (LLE)</br>
 Focuses on capturing non-linear structures in high-dimensional data.
 Preserves local neighborhood relationships when projecting data into a reduced space.
 2. t-Distributed Stochastic Neighbor Embedding (t-SNE)
