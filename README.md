@@ -1,5 +1,5 @@
 # Advanced-Dimensionality-Reduction
-Video Walkthrough
+Video Walkthrough</br>
 youtube
 1. Image Dataset
    https://colab.research.google.com/drive/1RkGCRxb_lBwvNn_BB7JGIJSV5grs5-fo
