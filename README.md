@@ -14,26 +14,26 @@ This project delves into Advanced Dimensionality Reduction (ADR) techniques, app
 1. Locally Linear Embedding (LLE)</br>
 Focuses on capturing non-linear structures in high-dimensional data.
 Preserves local neighborhood relationships when projecting data into a reduced space.
-2. t-Distributed Stochastic Neighbor Embedding (t-SNE)
+2. t-Distributed Stochastic Neighbor Embedding (t-SNE)</br>
 A non-linear technique designed for effective data visualization.
 Highlights clusters by preserving local relationships in the data.
-3. ISOMAP
+3. ISOMAP</br>
 Extends Multi-Dimensional Scaling (MDS) by incorporating global geometric structures.
 Ensures a faithful lower-dimensional representation of the original dataset.
-4. Uniform Manifold Approximation and Projection (UMAP)
+4. Uniform Manifold Approximation and Projection (UMAP)</br>
 Known for its computational efficiency and interactive visualization capabilities.
 Strives to maintain both local and global data relationships.
-5. Multi-Dimensional Scaling (MDS)
+5. Multi-Dimensional Scaling (MDS)</br>
 Preserves pairwise distance relationships in the data during dimensionality reduction.
-6. Randomized Principal Component Analysis (Randomized PCA)
+6. Randomized Principal Component Analysis (Randomized PCA)</br>
 Accelerates PCA computations using randomization techniques.
 Well-suited for large datasets requiring efficient processing.
-7. Kernel PCA
+7. Kernel PCA</br>
 An extension of traditional PCA that leverages kernel methods for non-linear dimensionality reduction.
-8. Incremental PCA
+8. Incremental PCA</br>
 A variation of PCA designed for large datasets.
 Processes data in batches to minimize memory usage.
-9. Factor Analysis
+9. Factor Analysis</br>
 A statistical method that uncovers latent variables (factors) to explain data structures.
 10. Autoencoders
 Neural network-based methods for learning compressed, non-linear representations of data.
