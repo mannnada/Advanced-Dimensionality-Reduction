@@ -2,7 +2,7 @@
 Video Walkthrough</br>
 youtube
 1.Dimensionlity reduction by databrick
-https://colab.research.google.com/drive/1N1KuNZn9Hs0NbiKNCwQFzYoxrCA_FVoy?usp=sharing
+https://colab.research.google.com/drive/1N1KuNZn9Hs0NbiKNCwQFzYoxrCA_FVoy?usp=sharing</br>
 2. Image Dataset
    https://colab.research.google.com/drive/1RkGCRxb_lBwvNn_BB7JGIJSV5grs5-fo
 3. Tabular Dataset
