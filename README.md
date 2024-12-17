@@ -1,9 +1,11 @@
 # Advanced-Dimensionality-Reduction
 Video Walkthrough</br>
 youtube
-1. Image Dataset
+1.Dimensionlity reduction by databrick
+https://colab.research.google.com/drive/1N1KuNZn9Hs0NbiKNCwQFzYoxrCA_FVoy?usp=sharing
+2. Image Dataset
    https://colab.research.google.com/drive/1RkGCRxb_lBwvNn_BB7JGIJSV5grs5-fo
-2. Tabular Dataset
+3. Tabular Dataset
    https://colab.research.google.com/drive/1CLZ83Hag582ii9v14S3MPRi-tPqcnWqE#scrollTo=_WpTxNmbPgYe
 
 Introduction
